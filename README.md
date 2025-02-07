@@ -53,7 +53,7 @@ Due to the large size of the full project, only the build files are included in 
 ## Assets
 The project utilizes various third-party assets to enhance the game experience. Below are the primary assets used:
 
-    - 
+...
 
 If you encounter any missing assets or require access to specific files, please contact us directly for assistance.
 
@@ -62,3 +62,7 @@ The project is being developed by a small team composed by:
 - **Arben Abazi** - [GitHub](https://github.com/arben-abazi)
 - **Lorenzo Severini** – [GitHub](https://github.com/lorenzo-severini)
 - **David Zipperstein** – [GitHub](https://github.com/david-z2812)
+
+
+## License
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
