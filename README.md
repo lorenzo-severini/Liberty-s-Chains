@@ -50,6 +50,13 @@ Planned improvements include:
 Due to the large size of the full project, only the build files are included in this repository. The full Game Design Document (GDD) and other development files are not included here. If you are interested in accessing the complete project or the GDD, please contact the team directly.
 
 
+## Assets
+The project utilizes various third-party assets to enhance the game experience. Below are the primary assets used:
+
+    - 
+
+If you encounter any missing assets or require access to specific files, please contact us directly for assistance.
+
 ## Authors
 The project is being developed by a small team composed by:
 - **Arben Abazi** - [GitHub](https://github.com/arben-abazi)
