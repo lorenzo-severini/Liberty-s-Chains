@@ -39,13 +39,6 @@ The player assumes the role of **Donar Walheim**, a captured warrior from German
 2. Run the executable file (`LibertysChains.exe`).
 3. Ensure keyboard controls are active, as the game does not support controllers.
 
-## Future Enhancements
-Planned improvements include:
-- Additional **enemy types** with more complex behaviors.
-- Expanded **level designs** and environmental challenges.
-- Improved **combat animations** and visual effects.
-- Potential **controller support** for enhanced gameplay experience.
-
 ## Note on Uploaded Files
 Due to the large size of the full project, only the build files are included in this repository. The full Game Design Document (GDD) and other development files are not included here. If you are interested in accessing the complete project or the GDD, please contact the team directly.
 
