@@ -54,7 +54,7 @@ If you encounter any missing assets or require access to specific files, please 
 
 ## Authors
 The project is being developed by a small team composed by:
-- **Arben Abazi** - [GitHub](https://github.com/arben-abazi)
+- **Arben Abazi** - [GitHub](https://github.com/)
 - **Lorenzo Severini** – [GitHub](https://github.com/lorenzo-severini)
 - **David Zipperstein** – [GitHub](https://github.com/david-z2812)
 
