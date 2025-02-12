@@ -37,8 +37,8 @@ The player assumes the role of **Donar Walheim**, a captured warrior from German
 ## Installation & Execution
 1. Download and extract the game files.
 2. Run the executable:
-    - Windows: LibertysChains.exe
-    - Linux: LibertysChains.x86_64
+    - **Windows**: LibertysChains.exe
+    - **Linux**: LibertysChains.x86_64
 3. Ensure keyboard controls are active, as the game does not support controllers.
 
 ## Note on Uploaded Files
