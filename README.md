@@ -54,9 +54,9 @@ If you encounter any missing assets or require access to specific files, please 
 
 ## Authors
 The project is being developed by a small team composed by:
-- [Lorenzo Severini](https://github.com/lorenzo-severini)
-- [David Zipperstein](https://github.com/david-z2812)
-- [Arben Abazi](https://github.com/lorenzo-severini/Liberty-s-Chains/)
+- [Lorenzo Severini](https://github.com/lorenzo-severini): Co-creator and developer.
+- [David Zipperstein](https://github.com/david-z2812): Co-creator and developer.
+- [Arben Abazi](https://github.com/lorenzo-severini/Liberty-s-Chains/): Co-creator and developer.
 
 
 ## License
