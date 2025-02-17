@@ -53,7 +53,6 @@ The project utilizes various third-party assets to enhance the game experience. 
 If you encounter any missing assets or require access to specific files, please contact us directly for assistance.
 
 ## Authors
-The project is being developed by a small team composed by:
 - [Lorenzo Severini](https://github.com/lorenzo-severini): Co-creator and developer.
 - [David Zipperstein](https://github.com/david-z2812): Co-creator and developer.
 - [Arben Abazi](https://github.com/lorenzo-severini/Liberty-s-Chains/): Co-creator and developer.
